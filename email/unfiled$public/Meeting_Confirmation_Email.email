@@ -1,0 +1,11 @@
+Hi ,
+
+Your meeting has been scheduled and the details are as follows:
+
+Date & Time: {!Meeting__c.Start_Time__c} to {!Meeting__c.End_Time__c}
+
+Confirm your availability by responding to this email. Please use 'Reply to All' option.
+
+
+Regards,
+{!Meeting__c.Meeting_Requestor.Name__c}
